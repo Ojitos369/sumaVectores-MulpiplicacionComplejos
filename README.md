@@ -1,0 +1,1 @@
+en caso de Error ejecutar actualizar.py para instalar matplotlib
